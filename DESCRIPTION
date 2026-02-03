@@ -1,6 +1,6 @@
 Package: evalHTE
 Title: Evaluating Heterogeneous Treatment Effects
-Version: 0.1.0
+Version: 0.1.1
 Authors@R: c(
     person("Michael Lingzhi", "Li", email = "mili@hbs.edu", role = c("aut", "cre")),
     person("Kosuke", "Imai", email = "imai@harvard.edu", role = "aut"),
@@ -16,10 +16,10 @@ RoxygenNote: 7.3.3
 Suggests: knitr, rmarkdown, future, grf, magrittr, tibble
 VignetteBuilder: knitr
 NeedsCompilation: no
-Packaged: 2026-01-24 22:35:01 UTC; shazn
+Packaged: 2026-02-02 01:41:36 UTC; michaelli
 Author: Michael Lingzhi Li [aut, cre],
   Kosuke Imai [aut],
   Jialu Li [ctb]
 Maintainer: Michael Lingzhi Li <mili@hbs.edu>
 Repository: CRAN
-Date/Publication: 2026-01-28 19:10:08 UTC
+Date/Publication: 2026-02-03 09:00:02 UTC
